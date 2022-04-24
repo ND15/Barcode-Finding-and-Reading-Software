@@ -15,9 +15,12 @@ This repository contains the implementation of barcode finding and reading softw
 - numpy
 
 ## Result Sample
+
 - Input Image
 ![alt text](https://github.com/ND15/Barcode-Finding-and-Reading-Software/blob/main/input.jpg)
+
 - Blue Bounded Boxes
 ![alt text](https://github.com/ND15/Barcode-Finding-and-Reading-Software/blob/main/bounded.jpg)
+
 - Black Bounded Boxes
 ![alt text](https://github.com/ND15/Barcode-Finding-and-Reading-Software/blob/main/image.jpg)
