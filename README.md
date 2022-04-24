@@ -16,9 +16,11 @@ This repository contains the implementation of barcode finding and reading softw
 
 ## Run Code
 - Command
-  >**python filename.py --dataset path_to_the_dataset
+  > python filename.py --dataset path_to_the_dataset
+  > 
 - On my desktop
   > python barcode_test.py --dataset ../all_barcode/
+
 
 ## Result Sample
 
