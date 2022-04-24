@@ -14,6 +14,10 @@ This repository contains the implementation of barcode finding and reading softw
 - imutils
 - numpy
 
+## Run Code
+Command::
+  python filename.py --dataset path_to_the_dataset
+
 ## Result Sample
 
 - Input Image
